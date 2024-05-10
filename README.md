@@ -25,7 +25,7 @@ package main
 
 import (
 	"fmt"
-	"InMemoryCache"
+	"github.com/AkobArm/InMemoryCache/cache"
     "time"
 )
 
