@@ -26,7 +26,7 @@ package main
 import (
 	"fmt"
 	"github.com/AkobArm/InMemoryCache/cache"
-    "time"
+	"time"
 )
 
 func main() {
